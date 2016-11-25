@@ -1,0 +1,15 @@
+C:\Users\Viktor\Desktop\BlogSystemDemo\BlogSystem\BlogSystem.Services\bin\Debug\BlogSystem.Services.dll
+C:\Users\Viktor\Desktop\BlogSystemDemo\BlogSystem\BlogSystem.Services\bin\Debug\BlogSystem.Services.pdb
+C:\Users\Viktor\Desktop\BlogSystemDemo\BlogSystem\BlogSystem.Services\bin\Debug\BlogSystem.Data.dll
+C:\Users\Viktor\Desktop\BlogSystemDemo\BlogSystem\BlogSystem.Services\bin\Debug\BlogSystem.Models.dll
+C:\Users\Viktor\Desktop\BlogSystemDemo\BlogSystem\BlogSystem.Services\bin\Debug\EntityFramework.dll
+C:\Users\Viktor\Desktop\BlogSystemDemo\BlogSystem\BlogSystem.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Viktor\Desktop\BlogSystemDemo\BlogSystem\BlogSystem.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Viktor\Desktop\BlogSystemDemo\BlogSystem\BlogSystem.Services\bin\Debug\BlogSystem.Data.pdb
+C:\Users\Viktor\Desktop\BlogSystemDemo\BlogSystem\BlogSystem.Services\bin\Debug\BlogSystem.Models.pdb
+C:\Users\Viktor\Desktop\BlogSystemDemo\BlogSystem\BlogSystem.Services\bin\Debug\EntityFramework.xml
+C:\Users\Viktor\Desktop\BlogSystemDemo\BlogSystem\BlogSystem.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Viktor\Desktop\BlogSystemDemo\BlogSystem\BlogSystem.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Viktor\Desktop\BlogSystemDemo\BlogSystem\BlogSystem.Services\obj\Debug\BlogSystem.Services.csprojResolveAssemblyReference.cache
+C:\Users\Viktor\Desktop\BlogSystemDemo\BlogSystem\BlogSystem.Services\obj\Debug\BlogSystem.Services.dll
+C:\Users\Viktor\Desktop\BlogSystemDemo\BlogSystem\BlogSystem.Services\obj\Debug\BlogSystem.Services.pdb
