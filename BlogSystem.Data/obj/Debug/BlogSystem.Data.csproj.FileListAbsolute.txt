@@ -14,3 +14,7 @@ C:\Users\Viktor\Desktop\BlogSystemDemo\BlogSystem\BlogSystem.Data\bin\Debug\Micr
 C:\Users\Viktor\Desktop\BlogSystemDemo\BlogSystem\BlogSystem.Data\obj\Debug\BlogSystem.Data.csprojResolveAssemblyReference.cache
 C:\Users\Viktor\Desktop\BlogSystemDemo\BlogSystem\BlogSystem.Data\obj\Debug\BlogSystem.Data.dll
 C:\Users\Viktor\Desktop\BlogSystemDemo\BlogSystem\BlogSystem.Data\obj\Debug\BlogSystem.Data.pdb
+C:\Users\Viktor\Desktop\BlogSystemDemo\BlogSystem\BlogSystem.Data\obj\Debug\BlogSystem.Data.Migrations.InitialCreate.resources
+C:\Users\Viktor\Desktop\BlogSystemDemo\BlogSystem\BlogSystem.Data\obj\Debug\BlogSystem.Data.csproj.GenerateResource.Cache
+C:\Users\Viktor\Desktop\BlogSystemDemo\BlogSystem\BlogSystem.Data\obj\Debug\BlogSystem.Data.Migrations.Added_Posts.resources
+C:\Users\Viktor\Desktop\BlogSystemDemo\BlogSystem\BlogSystem.Data\obj\Debug\BlogSystem.Data.Migrations.Changed_Post_User_Id_Type.resources

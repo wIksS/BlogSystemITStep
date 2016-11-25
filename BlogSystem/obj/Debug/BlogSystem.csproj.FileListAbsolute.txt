@@ -71,3 +71,7 @@ C:\Users\Viktor\Desktop\BlogSystemDemo\BlogSystem\BlogSystem\bin\Microsoft.Owin.
 C:\Users\Viktor\Desktop\BlogSystemDemo\BlogSystem\BlogSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\Viktor\Desktop\BlogSystemDemo\BlogSystem\BlogSystem\obj\Debug\BlogSystem.dll
 C:\Users\Viktor\Desktop\BlogSystemDemo\BlogSystem\BlogSystem\obj\Debug\BlogSystem.pdb
+C:\Users\Viktor\Desktop\BlogSystemDemo\BlogSystem\BlogSystem\bin\BlogSystem.Common.dll
+C:\Users\Viktor\Desktop\BlogSystemDemo\BlogSystem\BlogSystem\bin\AutoMapper.dll
+C:\Users\Viktor\Desktop\BlogSystemDemo\BlogSystem\BlogSystem\bin\BlogSystem.Common.pdb
+C:\Users\Viktor\Desktop\BlogSystemDemo\BlogSystem\BlogSystem\bin\AutoMapper.xml
