@@ -1,0 +1,16 @@
+C:\Users\Viktor\Desktop\BlogSystemDemo\BlogSystem\BlogSystem.Data\bin\Debug\BlogSystem.Data.dll.config
+C:\Users\Viktor\Desktop\BlogSystemDemo\BlogSystem\BlogSystem.Data\bin\Debug\BlogSystem.Data.dll
+C:\Users\Viktor\Desktop\BlogSystemDemo\BlogSystem\BlogSystem.Data\bin\Debug\BlogSystem.Data.pdb
+C:\Users\Viktor\Desktop\BlogSystemDemo\BlogSystem\BlogSystem.Data\bin\Debug\BlogSystem.Models.dll
+C:\Users\Viktor\Desktop\BlogSystemDemo\BlogSystem\BlogSystem.Data\bin\Debug\EntityFramework.dll
+C:\Users\Viktor\Desktop\BlogSystemDemo\BlogSystem\BlogSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Viktor\Desktop\BlogSystemDemo\BlogSystem\BlogSystem.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Viktor\Desktop\BlogSystemDemo\BlogSystem\BlogSystem.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Viktor\Desktop\BlogSystemDemo\BlogSystem\BlogSystem.Data\bin\Debug\BlogSystem.Models.pdb
+C:\Users\Viktor\Desktop\BlogSystemDemo\BlogSystem\BlogSystem.Data\bin\Debug\EntityFramework.xml
+C:\Users\Viktor\Desktop\BlogSystemDemo\BlogSystem\BlogSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Viktor\Desktop\BlogSystemDemo\BlogSystem\BlogSystem.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Viktor\Desktop\BlogSystemDemo\BlogSystem\BlogSystem.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Viktor\Desktop\BlogSystemDemo\BlogSystem\BlogSystem.Data\obj\Debug\BlogSystem.Data.csprojResolveAssemblyReference.cache
+C:\Users\Viktor\Desktop\BlogSystemDemo\BlogSystem\BlogSystem.Data\obj\Debug\BlogSystem.Data.dll
+C:\Users\Viktor\Desktop\BlogSystemDemo\BlogSystem\BlogSystem.Data\obj\Debug\BlogSystem.Data.pdb
