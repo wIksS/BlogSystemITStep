@@ -19,6 +19,9 @@ namespace BlogSystem
             bundles.Add(new ScriptBundle("~/bundles/modernizr").Include(
                         "~/Scripts/modernizr-*"));
             
+            bundles.Add(new ScriptBundle("~/bundles/admin").Include(
+                        "~/Scripts/tinymce/tinymce.js"));
+
             bundles.Add(new ScriptBundle("~/bundles/bootstrap").Include(
                       "~/Scripts/bootstrap.js",
                       "~/Scripts/jqBootstrapValidation.js",
@@ -29,6 +32,10 @@ namespace BlogSystem
                       "~/Content/bootstrap.css",
                       "~/Content/clean-blog.css",
                       "~/Content/site.css"));
+
+            bundles.Add(new StyleBundle("~/Content/admin").Include(
+                      "~/Content/bootstrap.css",
+                      "~/Content/admin.css"));
         }
     }
 }

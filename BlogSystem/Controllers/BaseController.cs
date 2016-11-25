@@ -11,17 +11,6 @@ namespace BlogSystem.Controllers
 {
     public abstract class BaseController : Controller
     {
-        public BaseController()
-            :this(new BlogSystemData())
-        { }
-
-        public BaseController(IBlogSystemData data)
-        {
-            this.Data = data;
-        }
-
-        protected IBlogSystemData Data{ get; private set; }
-
         protected IMapper Mapper
         {
             get

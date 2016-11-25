@@ -13,13 +13,13 @@
             //Database.SetInitializer(new MigrateDatabaseToLatestVersion<TrackingSystemDbContext, Configuration>());
         }
 
-        IDbSet<ApplicationUser> Users
+        public IDbSet<ApplicationUser> Users
         {
             get;
             set;
         }
 
-        IDbSet<Post> Posts
+        public IDbSet<Post> Posts
         {
             get;
             set;
@@ -28,6 +28,6 @@
         public static BlogSystemDbContext Create()
         {
             return new BlogSystemDbContext();
-        }
+        }      
     }
 }
